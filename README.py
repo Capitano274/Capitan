@@ -1,4 +1,3 @@
-GNU nano 5.2                    ali.py
 import os
 os. system ('clear')
 import socket
